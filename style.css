@@ -1,7 +1,28 @@
 h1{
 font-size: 75px;
-text-align: center;
 
+
+}
+
+h3{ 
+
+    
+font-size: 50px;
+text-align: left;
+
+}
+
+ul{ font-size: 34px;
+    text-align: left;
+
+}
+
+div{
+    text-align: center;
+border: 10px solid red;
+width: 800px;
+background-color: rgb(49, 3, 3);
+font-family: Courier; 
 
 
 }
